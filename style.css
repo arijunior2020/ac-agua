@@ -116,3 +116,8 @@ h1.display-5 {
         transform: translateX(-100px) rotate(0deg);
     }
 }
+
+h1, h5, .navbar-brand {
+    font-weight: 600; /* Negrito para títulos */
+    color: #007bff; /* Azul primário */
+}
